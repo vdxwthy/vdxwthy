@@ -28,7 +28,7 @@
 
 
 <br>
-<div align="left" style="margin: 20px 0;">
+<div align="left" >
 <a href="https://github.com/vdxwthy/BuyIt">
     <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
 </a>
