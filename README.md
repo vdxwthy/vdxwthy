@@ -25,10 +25,10 @@
 </div>
 
 <div style="margin-top: 20px;">
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
 </div>
 
 
