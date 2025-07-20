@@ -16,7 +16,8 @@
 
 ## Мои проекты
 ### Mobile Projects
-<div style="display: flex; flex-direction: row; gap: 16px; margin: 16px 0;" >
+![skills](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg)
+<div style="display: flex; flex-direction: row;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height=48px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height=48px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height=48px/>
