@@ -15,7 +15,14 @@ I am a student and have been actively studying the field of programming since 20
 Помимо этого, я также интересуюсь UI/UX-дизайном — изучаю принципы удобного взаимодействия, работу с цветом, и стремлюсь применять это в собственных проектах, создавая не только функциональные, но и визуально приятные интерфейсы. -->
 
 ## My projects
-<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> ### Mobile Projects
+<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> 
+<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> 
+<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> 
+<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> 
+<img src="https://em-content.zobj.net/source/telegram/386/star_2b50.webp" width="20px" alt="star" /> 
+
+
+### Mobile Projects
 
 
 <div style="display: flex; flex-direction: row;">
