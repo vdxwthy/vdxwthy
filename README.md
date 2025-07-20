@@ -14,8 +14,7 @@ I am a student and have been actively studying the field of programming since 20
 
 Помимо этого, я также интересуюсь UI/UX-дизайном — изучаю принципы удобного взаимодействия, работу с цветом, и стремлюсь применять это в собственных проектах, создавая не только функциональные, но и визуально приятные интерфейсы. -->
 
-## My projects
-### 📱Mobile Projects
+## 📱Mobile Projects
 <div style="display: flex; flex-direction: row;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height=48px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height=48px/>
