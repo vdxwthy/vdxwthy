@@ -27,7 +27,9 @@
 <br>
 
 <div align="left" >
-    
+    <a href="https://github.com/vdxwthy/BuyIt">
+        <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
+    </a>
     <a href="https://github.com/vdxwthy/Calculator-Swift">
         <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-Swift&theme=prussian&hide_border=true&show_icons=true">
     </a>
