@@ -1,6 +1,6 @@
 # vdxwthy
 ## About Me
-Я студент и активно изучаю сферу программирования с 2022 года. Постоянно пробую себя в разных направлениях, чтобы лучше понимать технологии и находить то, что мне действительно интересно.
+I am a student and have been actively studying the field of programming since 2022. I constantly try myself in different directions to better understand technologies and find what really interests me.
  <!-- В процессе обучения и практики я успел поработать с различными инструментами и стеком технологий.
 На данный момент мой опыт включает:
 
@@ -14,8 +14,8 @@
 
 Помимо этого, я также интересуюсь UI/UX-дизайном — изучаю принципы удобного взаимодействия, работу с цветом, и стремлюсь применять это в собственных проектах, создавая не только функциональные, но и визуально приятные интерфейсы. -->
 
-## Мои проекты
-### Mobile Projects
+## My projects
+### Mobile projects
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height=48px/>
@@ -28,10 +28,10 @@
 
 <div align="left" >
     <a href="https://github.com/vdxwthy/BuyIt">
-        <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
     </a>
     <a href="https://github.com/vdxwthy/Calculator-Swift">
-        <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-Swift&theme=prussian&hide_border=true&show_icons=true">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-Swift&theme=prussian&hide_border=true&show_icons=true">
     </a>
 </div>
 
