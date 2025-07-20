@@ -25,22 +25,19 @@
 </div>
 
 <div style="margin-top: 20px;">
-    <div class="project-card">
-        <a href="https://github.com/vdxwthy/BuyIt" class="project-link">
-            <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
-        </a>
+    <!-- Для вертикальных отступов используйте пустые строки -->
+    
+    [![BuyIt](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true)](https://github.com/vdxwthy/BuyIt)
+    
+    <!-- Или HTML тег <br> для небольших отступов -->
+    <br>
+    
+    <!-- Альтернативный вариант с HTML -->
+    <div align="center" style="margin: 20px 0;">
+      <a href="https://github.com/vdxwthy/BuyIt">
+        <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
+      </a>
     </div>
 </div>
-
-.project-card {
-    margin: 20px;
-    padding: 10px;
-    display: inline-block;
-}
-
-.project-link {
-    margin: 15px;
-    display: block;
-}
 
 
