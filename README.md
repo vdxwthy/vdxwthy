@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height=48px/>    
 </div>
 
-<div style="margin-top: 20px;">
+
 
 
 <br>
