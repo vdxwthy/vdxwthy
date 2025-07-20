@@ -34,3 +34,34 @@ I am a student and have been actively studying the field of programming since 20
 </div>
 
 
+## College Projects
+<div style="display: flex; flex-direction: row;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=48px/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=48px/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=48px/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=48px/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=48px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=48px/>
+</div>
+
+<br>
+
+<div align="left" >
+    <a href="https://github.com/vdxwthy/FoodDash">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=FoodDash&theme=prussian&hide_border=true&show_icons=true">
+    </a>
+    <a href="https://github.com/vdxwthy/RandStuff-on-WPF">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=RandStuff-on-WPF&theme=prussian&hide_border=true&show_icons=true">
+    </a>
+    <a href="https://github.com/vdxwthy/Gallows-WPF">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Gallows-WPF&theme=prussian&hide_border=true&show_icons=true">
+    </a>
+    <a href="https://github.com/vdxwthy/Calculator-PyQT5">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-PyQT5&theme=prussian&hide_border=true&show_icons=true">
+    </a>
+     <a href="https://github.com/vdxwthy/Date-calculator-WPF">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Date-calculator-WPF&theme=prussian&hide_border=true&show_icons=true">
+    </a>
+</div>
+
+
