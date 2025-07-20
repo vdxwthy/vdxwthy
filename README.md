@@ -57,7 +57,7 @@ I am a student and have been actively studying the field of programming since 20
         <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Gallows-WPF&theme=prussian&hide_border=true&show_icons=true">
     </a>
     <a href="https://github.com/vdxwthy/Calculator-PyQT5">
-        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-PyQT5&theme=prussian&hide_border=false&show_icons=true">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Calculator-PyQT5&theme=prussian&hide_border=true&show_icons=true">
     </a>
      <a href="https://github.com/vdxwthy/Date-calculator-WPF">
         <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Date-calculator-WPF&theme=prussian&hide_border=true&show_icons=true">
