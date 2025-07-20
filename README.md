@@ -25,10 +25,22 @@
 </div>
 
 <div style="margin-top: 20px;">
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
-    <a href="https://github.com/vdxwthy/BuyIt"><img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true"></a>
+    <div class="project-card">
+        <a href="https://github.com/vdxwthy/BuyIt" class="project-link">
+            <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=BuyIt&theme=prussian&hide_border=true&show_icons=true">
+        </a>
+    </div>
 </div>
+
+.project-card {
+    margin: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.project-link {
+    margin: 15px;
+    display: block;
+}
 
 
