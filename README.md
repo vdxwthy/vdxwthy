@@ -62,6 +62,9 @@ I am a student and have been actively studying the field of programming since 20
      <a href="https://github.com/vdxwthy/Date-calculator-WPF">
         <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=Date-calculator-WPF&theme=prussian&hide_border=true&show_icons=true">
     </a>
+    <a href="https://github.com/vdxwthy/WindowsNotepad">
+        <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vdxwthy&repo=WindowsNotepad&theme=prussian&hide_border=true&show_icons=true">
+    </a>
 </div>
 
 
