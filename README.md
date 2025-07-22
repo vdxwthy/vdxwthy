@@ -34,7 +34,7 @@ I am a student and have been actively studying the field of programming since 20
 </div>
 
 
-## 📚College Projects
+## 🎓 College Projects
 <div style="display: flex; flex-direction: row;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=48px/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=48px/>   
