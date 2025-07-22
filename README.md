@@ -1,4 +1,3 @@
-# vdxwthy
 ## About Me
 I am a student and have been actively studying the field of programming since 2022. I constantly try myself in different directions to better understand technologies and find what really interests me.
  <!-- В процессе обучения и практики я успел поработать с различными инструментами и стеком технологий.
